@@ -1,0 +1,6 @@
+torch
+torchvision
+pyqt5
+transformers
+pillow
+bitsandbytes
